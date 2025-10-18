@@ -1,3 +1,4 @@
 # portafolio
 Portafolio personal de análisis de datos
-Aca va mi primer codigo 
+
+U7_sesion 1 cuenta con 7 ejercicios basicos para la exploracion de python  
